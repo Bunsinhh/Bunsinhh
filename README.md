@@ -22,9 +22,5 @@
 <br />
 <br />
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-
----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
