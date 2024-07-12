@@ -83,8 +83,8 @@ HTML             ████████████████░░░░  8
 <p align="center">
 <a href="mailto:ngovbunsinh@gmail.com"><img src="https://img.shields.io/badge/-ngovbunsinh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>  
 <a href="https://www.linkedin.com/in/nam-woon-2b982027b"><img src="https://img.shields.io/badge/-NamWoon-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/NAMWOOON"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/namwoon_1"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/NAMWOOON"><img src="https://img.shields.io/badge/-NamWoon-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/namwoon_1"><img src="https://img.shields.io/badge/-NamWoon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
