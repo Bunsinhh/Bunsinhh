@@ -18,9 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bunsinhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
@@ -28,6 +25,6 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bunsinhh&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
