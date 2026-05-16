@@ -2,7 +2,7 @@
   <h3> Hi there!  I'm Bunsinh 👋 </h3>
   <p> Welcome to my profile, I'm a 19Y/O Web designer🧑🏻‍💻 and developer🎯 from Combodia. </p>
   <p> Most of my work is private. But I have some public projects here. </p>
-  <a href="mailto:ngovbunsinh@gmail.com"><img src="https://img.shields.io/badge/-ngovbunsinh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:bunsinhh@gmail.com"><img src="https://img.shields.io/badge/-bunsinhh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   <!-- [![](https://img.shields.io/badge/-Manolo%20Edge-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/manolo-edge-584856116/) -->
 
